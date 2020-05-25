@@ -678,9 +678,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: d63ebd79-c5bc-408b-bad0-345b95c64cc9
+  cloudProjectId: 388c5d09-91d2-4df3-9e82-f0e0f0cc54c8
   framebufferDepthMemorylessMode: 0
-  projectName: XRacer-ExtremeRacing_UnityProject (1)
+  projectName: XRacer-ExtremeRacing_UnityProject
   organizationId: gp-xracer
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
